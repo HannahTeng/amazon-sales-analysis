@@ -1,0 +1,32 @@
+AMAZON SALES BUSINESS ANALYSIS SUMMARY
+================================================================================
+
+KEY METRICS
+--------------------------------------------------------------------------------
+Total Products: 1,465
+Total Categories: 9
+Average Price: ₹3,125.31
+Average Discount: 47.7%
+Average Rating: 4.10/5.0
+Total Reviews: 26,766,377
+Estimated Total Revenue: ₹71,919,778,633
+
+TOP 5 CATEGORIES BY REVENUE
+--------------------------------------------------------------------------------
+                       Product Count  Avg Price  Avg Discount %  Avg Rating  Total Reviews   Est Revenue
+main_category                                                                                           
+Electronics                      526    5965.89           50.83        4.08     15778848.0  5.917975e+10
+Computers&Accessories            453     842.65           54.02        4.15      7728689.0  6.354569e+09
+Home&Kitchen                     448    2330.62           40.12        4.04      2991069.0  6.264336e+09
+MusicalInstruments                 2     638.00           46.00        3.90        88882.0  6.445808e+07
+OfficeProducts                    31     301.58           12.35        4.31       149675.0  4.578673e+07
+
+PRICE SEGMENT ANALYSIS
+--------------------------------------------------------------------------------
+                    Product Count  Avg Rating  Avg Discount %   Est Revenue
+price_segment                                                              
+Budget (<₹500)                576        4.07           55.78  2.900389e+09
+Economy (₹500-1K)             252        4.12           46.06  3.772717e+09
+Mid-range (₹1K-2K)            275        4.07           45.98  8.794300e+09
+Premium (₹2K-5K)              156        4.09           42.19  5.346187e+09
+Luxury (>₹5K)                 206        4.17           33.53  5.110618e+10
